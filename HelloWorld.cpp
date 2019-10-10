@@ -1,4 +1,4 @@
-//Comment for Conflict
+//Conflict from GitKraken
 #include <iostream>
 
 int main() {    
