@@ -1,4 +1,4 @@
-//Conflict from GitKraken
+//Conflict from Github Versuch 2 ._.
 #include <iostream>
 
 int main() {    
